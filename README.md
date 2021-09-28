@@ -6,6 +6,8 @@ A tool to see df for persistent volumes in k8s.
 
 ### Installation
 `go install`
+remember to include your golang /bin folder in your PATH:
+`export PATH=$PATH:$GOPATH/bin`
 
 ### Usage
 ```
